@@ -5,7 +5,7 @@ export const dbConfig =  {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'crudProductos',
+    database: 'crudProducts',
     port: 3307 //Utilizado en el puerto 3307 debido a un error con la conexión
 }
 
